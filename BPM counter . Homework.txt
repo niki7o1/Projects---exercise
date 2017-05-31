@@ -8,6 +8,7 @@ namespace ConsoleApplication62
 {
     class Program
     {
+	// Tova e zadachkata za domashno.
         static void Main(string[] args)
         {
             var bpm = double.Parse(Console.ReadLine());
